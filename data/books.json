@@ -978,7 +978,6 @@
   "featured": false,
   "bestSeller": false
 },
-  ,
 {
   "id": "BRU-078",
   "title": "Little Explorers: Let's Go! Museum",
@@ -1003,7 +1002,7 @@
   "stock": 24,
   "image": "images/books/book79.jpg",
   "featured": false,
-  "bestSeller": true
+  "bestSeller": false
 },
 {
   "id": "BRU-080",
@@ -1055,7 +1054,7 @@
   "stock": 15,
   "image": "images/books/book83.jpg",
   "featured": false,
-  "bestSeller": true
+  "bestSeller": false
 },
 {
   "id": "BRU-084",
@@ -1119,7 +1118,7 @@
   "price": 369,
   "stock": 14,
   "image": "images/books/book88.jpg",
-  "featured": true,
+  "featured": false,
   "bestSeller": false
 }
 ]
