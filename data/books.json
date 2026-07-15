@@ -965,7 +965,7 @@
   "featured": false,
   "bestSeller": false
   },
- {
+  {
   "id": "BRU-077",
   "title": "Paper Adventures",
   "author": "Aya Watanabe",
@@ -977,8 +977,8 @@
   "image": "images/books/book77.jpg",
   "featured": false,
   "bestSeller": false
-},
-{
+  },
+  {
   "id": "BRU-078",
   "title": "Little Explorers: Let's Go! Museum",
   "author": "Collaborate Agency",
@@ -990,8 +990,9 @@
   "image": "images/books/book78.jpg",
   "featured": false,
   "bestSeller": false
-},
-{
+  },
+  {
+
   "id": "BRU-079",
   "title": "365 Things to Make and Do",
   "author": "Fiona Watt",
@@ -1003,8 +1004,8 @@
   "image": "images/books/book79.jpg",
   "featured": false,
   "bestSeller": false
-},
-{
+  },
+  {
   "id": "BRU-080",
   "title": "Children's Book of Baking Cakes",
   "author": "Abigail Wheatley",
@@ -1016,8 +1017,8 @@
   "image": "images/books/book80.jpg",
   "featured": false,
   "bestSeller": false
-},
-{
+  },
+  {
   "id": "BRU-081",
   "title": "Usborne Rainy Day Book",
   "author": "Alastair Smith",
@@ -1029,8 +1030,8 @@
   "image": "images/books/book81.jpg",
   "featured": false,
   "bestSeller": false
-},
-{
+  },
+  {
   "id": "BRU-082",
   "title": "RHS Let's Get Gardening",
   "author": "Royal Horticultural Society",
@@ -1042,8 +1043,8 @@
   "image": "images/books/book82.jpg",
   "featured": false,
   "bestSeller": false
-},
-{
+  },
+  {
   "id": "BRU-083",
   "title": "This Is Not a Maths Book",
   "author": "Anna Weltman",
@@ -1055,8 +1056,8 @@
   "image": "images/books/book83.jpg",
   "featured": false,
   "bestSeller": false
-},
-{
+  },
+  {
   "id": "BRU-084",
   "title": "The Stick Book",
   "author": "Fiona Danks & Jo Schofield",
@@ -1068,8 +1069,8 @@
   "image": "images/books/book84.jpg",
   "featured": false,
   "bestSeller": false
-},
-{
+  },
+  {
   "id": "BRU-085",
   "title": "National Trust: Go Wild in the Woods",
   "author": "Goldie Hawk",
@@ -1081,8 +1082,8 @@
   "image": "images/books/book85.jpg",
   "featured": false,
   "bestSeller": false
-},
-{
+  },
+  {
   "id": "BRU-086",
   "title": "Tiny Explorers: Into the Wild",
   "author": "Miro Tartan",
@@ -1094,8 +1095,8 @@
   "image": "images/books/book86.jpg",
   "featured": false,
   "bestSeller": false
-},
-{
+  },
+  {
   "id": "BRU-087",
   "title": "Business for Beginners",
   "author": "Lara Bryan",
@@ -1107,8 +1108,8 @@
   "image": "images/books/book87.jpg",
   "featured": false,
   "bestSeller": false
-},
-{
+  },
+  {
   "id": "BRU-088",
   "title": "Usborne Book of Paper Engineering",
   "author": "Fiona Watt",
@@ -1120,5 +1121,5 @@
   "image": "images/books/book88.jpg",
   "featured": false,
   "bestSeller": false
-}
+  }
 ]
