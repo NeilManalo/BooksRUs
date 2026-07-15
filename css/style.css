@@ -103,10 +103,10 @@ button:focus-visible {
   object-fit: contain;
   transform: scale(1.25);
 }
-/*
+
 .footer-logo {
   object-fit: contain;
-}*/
+}
 
 .brand-name {
   font-size: clamp(1.25rem, 2.5vw, 1.7rem);
