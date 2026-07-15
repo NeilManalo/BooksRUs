@@ -952,17 +952,5 @@
   "image": "images/books/book75.jpg",
   "featured": false,
   "bestSeller": false
-  },
-  {
-  "id": "BRU-076",
-  "title": "If You Give a Mouse a Cookie",
-  "author": "Laura Joffe Numeroff",
-  "shortDescription": "This story shows how one small action can lead to many more.",
-  "ageGroup": "6-8",
-  "price": 149,
-  "stock": 42,
-  "image": "images/books/book76.jpg",
-  "featured": false,
-  "bestSeller": false
   }
 ]
