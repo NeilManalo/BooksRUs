@@ -97,10 +97,16 @@ button:focus-visible {
   color: var(--color-primary-dark);
 }
 
-.brand-logo,
+.brand-logo {
+  width: 85px;
+  height: 85px;
+  object-fit: contain;
+  transform: scale(1.25);
+}
+/*
 .footer-logo {
   object-fit: contain;
-}
+}*/
 
 .brand-name {
   font-size: clamp(1.25rem, 2.5vw, 1.7rem);
@@ -343,10 +349,8 @@ button:focus-visible {
   }
 
   .brand-logo {
-  width: 85px;
-  height: 85px;
-  object-fit: contain;
-  transform: scale(1.25);
+     width: 46px;
+     height: 46px
   }
 
   .brand-name {
