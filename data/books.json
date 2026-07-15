@@ -952,5 +952,17 @@
   "image": "images/books/book75.jpg",
   "featured": false,
   "bestSeller": false
+  }, 
+  {
+  "id": "BRU-076",
+  "title": "Hot Dog",
+  "author": "Doug Salati",
+  "shortDescription": "An overwhelmed dachshund who escapes a suffocating city heatwave for a refreshing, peaceful day at the beach with his owner.",
+  "ageGroup": "9-12",
+  "price": 299,
+  "stock": 53,
+  "image": "images/books/book76.jpg",
+  "featured": false,
+  "bestSeller": false
   }
 ]
