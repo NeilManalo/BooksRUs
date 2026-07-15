@@ -965,4 +965,16 @@
   "featured": false,
   "bestSeller": false
   }
+{
+  "id": "BRU-077",
+  "title": "Paper Adventures",
+  "author": "Aya Watanabe",
+  "shortDescription": "A tear-and-glue activity book where children complete exciting jungle and ocean adventures using colorful paper pieces.",
+  "ageGroup": "6-8",
+  "price": 649,
+  "stock": 21,
+  "image": "images/books/book77.jpg",
+  "featured": false,
+  "bestSeller": false
+}
 ]
