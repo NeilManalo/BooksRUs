@@ -924,16 +924,16 @@
   },
   {
   "id": "BRU-073",
-  "title": "Green Eggs and Ham",
-  "author": "Dr. Seuss",
-  "shortDescription": "A classic children's book about a simple breakfast.",
-  "category": "Early Readers",
-  "ageGroup": "3–5",
-  "price": 149,
-  "stock": 45,
+  "title": "The Little Mermaid",
+  "author": "Hans Christian Andersen",
+  "shortDescription": "A brave young mermaid dreams of exploring the human world above the sea. This timeless fairy tale is a story of courage, love, and following your heart.",
+  "category": "Fairy Tales",
+  "ageGroup": "6–8",
+  "price": 249,
+  "stock": 27,
   "image": "images/books/book73.jpg",
   "featured": false,
-  "bestSeller": false
+  "bestSeller": true
   },
   {
   "id": "BRU-074",
