@@ -1286,5 +1286,18 @@
   "image": "images/books/book100.jpg",
   "featured": false,
   "bestSeller": false
+},
+{
+  "id": "BRU-101",
+  "title": "The Adventures of Pinocchio",
+  "author": "Carlo Collodi",
+  "shortDescription": "Follow the adventures of Pinocchio, a wooden puppet who dreams of becoming a real boy. This beloved classic teaches valuable lessons about honesty, responsibility, and courage.",
+  "category": "Adventure",
+  "ageGroup": "9–12",
+  "price": 299,
+  "stock": 24,
+  "image": "images/books/book101.jpg",
+  "featured": false,
+  "bestSeller": true
 }
 ]
